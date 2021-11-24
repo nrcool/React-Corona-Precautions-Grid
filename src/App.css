@@ -7,6 +7,7 @@
     min-height:100vh;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(3,1fr);
+    gap: 10px;
 }
 .card0{
     grid-column: span 2;
@@ -24,15 +25,17 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background:linear-gradient(45deg,rgb(37, 37, 218), rgb(15, 255, 15));
+    background:linear-gradient(45deg,rgb(37, 37, 218), rgb(6, 168, 6));
+    border: 5px solid transparent;
     border:1px solid gray;
     padding: 10px;
     color: white;
     position: relative;
-    z-index: 99;
+    z-index: 1;
 }
-.main-card>img{
+.precaution-card>img{
     padding: 5px;
+    transition: 1s;
 }
 
 .precaution-card:before{
@@ -52,6 +55,9 @@
 }
 .precaution-card:hover>p{
     color:rgb(15, 255, 15);
+}
+.precaution-card:hover>img{
+    transform: scale(1.2);
 }
 
 
