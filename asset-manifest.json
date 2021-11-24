@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.92f19fbb.chunk.css",
+    "main.js": "./static/js/main.51568ac2.chunk.js",
+    "main.js.map": "./static/js/main.51568ac2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.84c248a6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.84c248a6.js.map",
+    "static/js/2.dd0d828a.chunk.js": "./static/js/2.dd0d828a.chunk.js",
+    "static/js/2.dd0d828a.chunk.js.map": "./static/js/2.dd0d828a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.92f19fbb.chunk.css.map": "./static/css/main.92f19fbb.chunk.css.map",
+    "static/js/2.dd0d828a.chunk.js.LICENSE.txt": "./static/js/2.dd0d828a.chunk.js.LICENSE.txt",
+    "static/media/cough.68780d07.png": "./static/media/cough.68780d07.png",
+    "static/media/doctor.e4c938c5.png": "./static/media/doctor.e4c938c5.png",
+    "static/media/handwash.e1e41ecc.png": "./static/media/handwash.e1e41ecc.png",
+    "static/media/medical-mask.13738fe7.png": "./static/media/medical-mask.13738fe7.png",
+    "static/media/no-crowd.1b3cdfc0.png": "./static/media/no-crowd.1b3cdfc0.png",
+    "static/media/shaking-hands.dfe92977.png": "./static/media/shaking-hands.dfe92977.png",
+    "static/media/social-distancing.513ffe77.png": "./static/media/social-distancing.513ffe77.png",
+    "static/media/vaccine.a941b739.png": "./static/media/vaccine.a941b739.png",
+    "static/media/windowopen.e58d4e0c.png": "./static/media/windowopen.e58d4e0c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c248a6.js",
+    "static/js/2.dd0d828a.chunk.js",
+    "static/css/main.92f19fbb.chunk.css",
+    "static/js/main.51568ac2.chunk.js"
+  ]
+}
